@@ -1,4 +1,4 @@
 тестовый файл
 12345
 Good bye!
-Line from user1
+Good morning! (from branch add-feature1)
