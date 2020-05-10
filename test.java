@@ -1,4 +1,5 @@
 тестовый файл
 12345
 Good bye!
-Good evening! (from branch master)
+Another line from user1
+Line from user1
