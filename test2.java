@@ -3,3 +3,4 @@
 Some other line
 Line from user2
 Line from user2
+critical bug fixed
