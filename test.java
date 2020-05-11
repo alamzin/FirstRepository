@@ -2,3 +2,4 @@
 12345
 Line from user2!!!
 Good bye!
+Some new feature
